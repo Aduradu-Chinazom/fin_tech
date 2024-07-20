@@ -30,6 +30,17 @@
     background-color: rgb(43, 188, 236);
     color: white;
 }
+.navnav ul{
+    display: flex;
+    gap: 30px;
+}
+.navnav ul li{
+    list-style: none;
+}
+.navnav ul li a{
+    text-decoration: none;
+    color: black;
+}
 .hero5{
     height: 400px;
     display: flex;
