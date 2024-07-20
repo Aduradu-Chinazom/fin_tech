@@ -1,0 +1,213 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  /* padding: 20px; */
+}
+
+.search-category,
+.search-offers {
+  display: flex;
+  align-items: center;
+  background-color: #f5f5f5;
+  border: 1px solid #d3d3d3;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.search-category select,
+.search-category button,
+.search-offers input,
+.search-offers button {
+  margin-left: 10px;
+}
+
+.search-category label {
+  font-size: 14px;
+  color: #a9a9a9;
+}
+
+.search-category select {
+  padding: 5px;
+}
+
+.search-category button {
+  padding: 5px 10px;
+  background-color: #d3d3d3;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.search-offers input {
+  padding: 5px;
+  border: none;
+  outline: none;
+}
+
+.search-offers button {
+  background-color: #d3d3d3;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.search-offers img {
+  width: 15px;
+  height: 15px;
+}
+.offers-container {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #4a4a4a;
+  text-align: right;
+}
+
+.offer-section {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.offer-section h1 {
+  font-size: 2em;
+  margin-bottom: 1px;
+}
+
+.offer-section p {
+  font-size: 1.2em;
+}
+
+.container h1 {
+text-align: center;
+justify-content: center;
+max-width: 100%;
+margin-bottom: 20px;
+padding: 20px;
+display: flex;
+}
+
+
+.shield {
+  display: flex;
+  justify-content: center;
+  gap: 500px;
+  margin: 70px 0;
+}
+
+.credit {
+  display: flex;
+  justify-content: center;
+  gap: 500px;
+  margin: 70px 0;
+}
+
+
+
+.container-two {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.protection {
+  width: 45%;
+  text-align: center;
+}
+.protection h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.protection p {
+  font-size: 18px;
+  margin-bottom: 20px;
+  
+}
+.protection a {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+.protection a:hover {
+  text-decoration: none;
+  background-color: #a82222;
+}
+
+.cost a{
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+.note {
+  font-size: 12px;
+}
+
+.container_3 {
+  max-width: 100%;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  background: linear-gradient(to bottom, #003087, #009cde);
+  color: white;
+  text-align: center;
+}
+.container_3 h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+.container_3 p {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+.button {
+  background-color: white;
+  color: #0070ba;
+  padding: 15px 30px;
+  font-size: 16px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.button:hover {
+  background-color: #f8f9fa;
+}
+
+
+
+
+.shield {
+  display: flex;
+  justify-content: center;
+  gap: 500px;
+  margin: 70px 0;
+}
+
+.credit {
+  display: flex;
+  justify-content: center;
+  gap: 500px;
+  margin: 70px 0;
+}
+
+.date .date-section h3 {
+  display: flex;
+  justify-content: center;
+}
+
+.socials .icon {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin: 70px 0;
+  size: 10px;
+}
+.socials .img {
+  padding: 15px 30px;
+  height: 10px;
+  background-color: #903030;
+}
