@@ -19,6 +19,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     width: 60%;
+    margin: auto;
 }
 
 .image-container {
@@ -255,7 +256,48 @@ margin-top: 46px;
 }
 .trust{
     border-radius: 10px;
+    color: #f3f3f6;
+    margin-left: 54px;
 }
 .you{
     margin-left: 410px;
+}
+.ban{
+
+    display: inline-block;
+    padding: 15px 25px;
+
+    color: #009cde;
+    font-size: 16px;
+    text-decoration: none;
+    border: 2px solid #009cde;
+    border-radius: 41px;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+
+    
+}
+.ton{
+    display: inline-block;
+    padding: 15px 25px;
+
+    color: #009cde;
+    font-size: 16px;
+    text-decoration: none;
+    border: 2px solid #009cde;
+    border-radius: 41px;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+.cat{
+    display: inline-block;
+    padding: 15px 25px;
+
+    color: #009cde;
+    font-size: 16px;
+    text-decoration: none;
+    border: 2px solid #009cde;
+    border-radius: 41px;
+    transition: all 0.3s ease;
+    margin-top: 10px;
 }
