@@ -2,6 +2,9 @@
     padding: 0;
     margin: 0;
 }
+body {
+    font-family: Arial, sans-serif;
+  }
 .nav{
     display: flex;
     justify-content: center;
@@ -36,6 +39,7 @@
 }
 .navnav ul li{
     list-style: none;
+    cursor: pointer;
 }
 .navnav ul li a{
     text-decoration: none;
